@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(21,22): warning C4129: '/': unrecognized character escape sequence
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(22,22): warning C4129: '/': unrecognized character escape sequence
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(24,21): warning C4129: '/': unrecognized character escape sequence
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(25,21): warning C4129: '/': unrecognized character escape sequence
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(26,19): warning C4129: '/': unrecognized character escape sequence
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(130,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(148,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(182,6): warning C4101: 'j': unreferenced local variable
+C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Continental\Main.cpp(181,6): warning C4101: 'i': unreferenced local variable
+  Continental.vcxproj -> C:\Users\rqb3r\Desktop\rqb3rt\Continental\Continental\Continental\Debug\Continental.exe
